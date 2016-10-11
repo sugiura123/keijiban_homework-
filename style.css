@@ -1,0 +1,16 @@
+table {
+  width: 500px;
+  border: 1px solid #CCC;
+  border-collapse: collapse;
+}
+tr {
+  height: 40px;
+}
+td, th {
+  font-size: 14px;
+  border: 1px solid #CCC;
+  padding: 10px;
+}
+th {
+  background-color: #E5F7F2;
+}
